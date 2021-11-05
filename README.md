@@ -40,7 +40,3 @@ serverHost - ip or name where hlm-backend instance is installed
 serverPort - port on which hlm-backend instance is installed (7878 by default)
 
 imitatePort - port on which imitate instance is installed (8000 by default)
-
-
-
-
